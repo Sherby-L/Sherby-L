@@ -8,7 +8,7 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 ---
-[![Top Langs](https://https://github.com/Sherby-L)](https://https://github.com/Sherby-L)
+[![Top Langs](https://github.com/Sherby-L?tab=repositories)](https://github.com/Sherby-L?tab=repositories)
 
 -  I’m currently learning React
  
