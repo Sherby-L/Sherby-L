@@ -8,7 +8,7 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 ---
-[![Top Langs](https://https://github.com/Sherby-L?tab=repositories)](https://https://github.com/Sherby-L?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Sherby-L=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 -  I’m currently learning React
  
